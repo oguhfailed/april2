@@ -86,6 +86,8 @@ def plot_polynomial_and_inverse(poly, x_min, x_max, y_query=None):
 name = "Alice"
 is_student = True
 print(is_student, type(is_student))
+age = 20
+print(age, type(age))
 
 if __name__ == "__main__":
     # Example 1: f(x) = x³ - 6x² + 11x - 6  (roots at x = 1, 2, 3)
