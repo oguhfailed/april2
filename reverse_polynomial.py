@@ -83,6 +83,8 @@ def plot_polynomial_and_inverse(poly, x_min, x_max, y_query=None):
 
 # ── Demo ──────────────────────────────────────────────────────────────────────
 
+name = "Alice"
+
 if __name__ == "__main__":
     # Example 1: f(x) = x³ - 6x² + 11x - 6  (roots at x = 1, 2, 3)
     coeffs = [1, -6, 11, -6]
